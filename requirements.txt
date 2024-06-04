@@ -1,2 +1,5 @@
 setuptools==70.0.0
 wheel==0.43.0
+
+pandas~=2.2.2
+fpdf~=1.7.2
