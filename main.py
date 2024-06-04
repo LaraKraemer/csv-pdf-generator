@@ -15,6 +15,9 @@ for index, row in df.iterrows():
     # create text variables
     pdf.cell(w=0, h=12, txt=row["Topic"],
              align="L", ln=1)
+    # add line under cell
+    pdf.line(10, 21, 200, 21)
+
 
 
 # create pdf file called output.pdf
