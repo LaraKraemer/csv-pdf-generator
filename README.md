@@ -12,5 +12,5 @@ where I generate a multi-pages pdf file. As a data source I work with a csv file
 7. Write more code, write the tests, and have fun! 🎉
 
 
-# Credits 
+## Credits 
 Go to my teacher Ardit Sulce from my online Python bootcamp on Udemy
